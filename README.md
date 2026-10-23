@@ -98,4 +98,3 @@ flutter build web
 ```
 
 There are no Dart tests under a `test/` directory in the current snapshot. Live Gemini responses require a valid key and were not verified as part of documenting this project.
-
